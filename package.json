@@ -1,5 +1,5 @@
 {
-  "name": "elgato-stream-deck-toggl",
+  "name": "elgato-stream-deck-clock",
   "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",

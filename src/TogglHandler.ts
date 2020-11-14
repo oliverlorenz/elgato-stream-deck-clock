@@ -106,7 +106,6 @@ export class ToggleHandler {
   }
 
   async stop() {
-    console.log('stop()');
     if (await this.isRunning()) {
       this.togglClient.stopTimeEntry(
         this.toggleTimeEntryId,
